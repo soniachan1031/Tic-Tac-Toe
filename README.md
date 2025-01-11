@@ -3,7 +3,7 @@ This project is a 👫 two-player turn-based Tic-Tac-Toe game built using C# and
 
 ## Screen Shot:
 Grid Size: 3x3 
-![image](https://github.com/user-attachments/assets/a28576c7-3f91-4799-adf5-fbfe1d2ba8b6)
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/a28576c7-3f91-4799-adf5-fbfe1d2ba8b6"/>
 
 Play 1 Wins:
 ![image](https://github.com/user-attachments/assets/8ac743fd-ecc7-4744-aeee-ba8936240977)
