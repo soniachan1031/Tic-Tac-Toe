@@ -11,3 +11,7 @@
 </br>
 <p>Grid Size: 5x5 and Draw:</p>
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/5450e630-4ca7-4858-a666-9de6d0b325db"/>
+
+## Contributor:
+Ridoy Mubarak Hussain
+Chan Shong (Sonia)
