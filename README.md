@@ -5,9 +5,9 @@
 ## Screen Shot:
 <p>Grid Size: 3x3</p>
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/a28576c7-3f91-4799-adf5-fbfe1d2ba8b6"/>
-<br/>
+</br>
 <p>Play 1 Wins:</p>
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/8ac743fd-ecc7-4744-aeee-ba8936240977"/>
-<br/>
+</br>
 <p>Grid Size: 5x5 and Draw:</p>
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/5450e630-4ca7-4858-a666-9de6d0b325db"/>
